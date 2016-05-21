@@ -1,0 +1,13 @@
+.DS_Store
+.metadata
+bin/
+tmp/
+out/
+*.tmp
+*.bak
+local.properties
+.settings/
+.loadpath
+
+# Eclipse Core
+.project
